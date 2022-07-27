@@ -1,0 +1,12 @@
+[
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=156919&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=157074&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=157062&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=157040&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=157029&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=156998&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=156989&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=156967&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=156932&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131",
+    "https://api.vk.com/method/wall.getComments?owner_id=-153041894&post_id=156886&count= 10&need_likes=1&preview_length=0&access_token=ab29852fe44a3d1edac474248bacac87f25f2b6e87fe7234762b696aa051b5370dc770270766315e05345&v=5.131"
+]
